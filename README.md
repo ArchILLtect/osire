@@ -1,5 +1,5 @@
 # The OSIRE Project
-![OSIRE Project Cover](./assets/OSIRE_Project_Cover_Image.png)
+![OSIRE Project Cover](./assets/osire-project-cover-image.png)
 
 # 🔍 Reverse Engineering Open Source Issues
 

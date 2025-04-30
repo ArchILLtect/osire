@@ -77,7 +77,7 @@ git checkout pre-fix-[issue#]
 
 ### 📄 8. Complete the Pre-Fix Log
 
-[RE Issue Pre-Fix Log Template](re-issue-pre-fix-log-template.md)
+[RE Issue Pre-Fix Log Template](/logs/re-issue-pre-fix-log-template.md)
 
 ---
 

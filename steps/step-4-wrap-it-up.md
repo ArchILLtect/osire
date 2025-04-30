@@ -58,7 +58,7 @@ Update your RE Issue Post-Fix Log Template with:
 - Whether you solved it differently or identically
 - How you tested or verified your fix
 
-[RE Issue **Post-Fix Log Template**](re-issue-post-fix-log-template.md)
+[RE Issue **Post-Fix Log Template**]/logs/(re-issue-post-fix-log-template.md)
 
 ---
 

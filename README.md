@@ -32,11 +32,11 @@ Each issue you reverse-engineer should follow the 5 documented steps:
 
 | **Step** | **Summary** |
 | --- | --- |
-| [Step 1](step-1-select-and-prep.md) | Select and prepare an issue + PR to reverse-engineer |
-| [Step 2](step-2-study-the-issue.md) | Study the original PR and tag the broken state |
-| [Step 3](step-3-apply-the-fix.md) | Recreate and manually fix the issue yourself |
-| [Step 4](step-4-wrap-it-up.md) | Compare your fix to the original and document your work |
-| [Step 5](step-5-reflect-and-learn.md) | Reflect on what you learned and how you grew |
+| [Step 1](/steps/step-1-select-and-prep.md) | Select and prepare an issue + PR to reverse-engineer |
+| [Step 2](/steps/step-2-study-the-issue.md) | Study the original PR and tag the broken state |
+| [Step 3](/steps/step-3-apply-the-fix.md) | Recreate and manually fix the issue yourself |
+| [Step 4](/steps/step-4-wrap-it-up.md) | Compare your fix to the original and document your work |
+| [Step 5](/steps/step-5-reflect-and-learn.md) | Reflect on what you learned and how you grew |
 
 See individual Markdown files in the `/steps` directory for details.
 
@@ -128,18 +128,18 @@ For questions, mentoring requests, or adaptation help, please contact:
 
 This project is open for educational use, remixing, and adaptation. Please credit the original author if reused in another course, bootcamp, or repo.
 
-[RE Log for Step 1](re-log-for-step-1.md)
+[RE Log for Step 1](/logs/re-log-for-step-1.md)
 
-[RE Issue Pre-Fix Log Template](re-issue-pre-fix-log-template.md)
+[RE Issue Pre-Fix Log Template](/logs/re-issue-pre-fix-log-template.md)
 
-[RE Issue Post-Fix Log Template](re-issue-post-fix-log-template.md)
+[RE Issue Post-Fix Log Template](/logs/re-issue-post-fix-log-template.md)
 
-[Step 1: Select and Prep](step-1-select-and-prep.md)
+[Step 1: Select and Prep](/steps/step-1-select-and-prep.md)
 
-[Step 2: Study the Issue](step-2-study-the-issue.md)
+[Step 2: Study the Issue](/steps/step-2-study-the-issue.md)
 
-[Step 3: Apply the Fix](step-3-apply-the-fix.md)
+[Step 3: Apply the Fix](/steps/step-3-apply-the-fix.md)
 
-[Step 4: Wrap it Up](step-4-wrap-it-up.md)
+[Step 4: Wrap it Up](/steps/step-4-wrap-it-up.md)
 
-[Step 5: Reflect and Learn](step-5-reflect-and-learn.md)
+[Step 5: Reflect and Learn](/steps/step-5-reflect-and-learn.md)

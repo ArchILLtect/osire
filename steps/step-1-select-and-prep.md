@@ -59,7 +59,7 @@ Before reading the PR or fix:
 Clone your own copy:
 
 - Fork and clone the repo locally
-// TODO Clean this up with code blocks
+// TODO Clean this up with code blocks - especially "Checkout a commit" and next line
 - Create a tag for original "up-to-date" state (Ex. git tag uptodate-state)
 - Be sure to push tag for later use: git push origin uptodate-state
 

@@ -45,7 +45,7 @@ Pick one of the changes and answer:
 - What is the new text?
 - Why is the new one correct?
 
-### 🏷️ 6. **Tag the Broken State**
+### 🏷️ 6. **Tag the Broken State** (if not done in Step 1.5)
 
 Add a Git tag to mark this point in history before you apply any changes:
 

@@ -32,11 +32,11 @@ Each issue you reverse-engineer should follow the 5 documented steps:
 
 | **Step** | **Summary** |
 | --- | --- |
-| [Step 1](Step%201%20Select%20and%20Prep.md) | Select and prepare an issue + PR to reverse-engineer |
-| [Step 2](Step%202%20Study%20the%20Issue.md) | Study the original PR and tag the broken state |
-| [Step 3](Step%203%20Apply%20the%20Fix.md) | Recreate and manually fix the issue yourself |
-| [Step 4](Step%204%20Wrap%20it%20Up.md) | Compare your fix to the original and document your work |
-| [Step 5](Step%205%20Reflect%20and%20Learn.md) | Reflect on what you learned and how you grew |
+| [Step 1](step-1-select-and-prep.md) | Select and prepare an issue + PR to reverse-engineer |
+| [Step 2](step-2-study-the-issue.md) | Study the original PR and tag the broken state |
+| [Step 3](step-3-apply-the-fix.md) | Recreate and manually fix the issue yourself |
+| [Step 4](step-4-wrap-it-up.md) | Compare your fix to the original and document your work |
+| [Step 5](step-5-reflect-and-learn.md) | Reflect on what you learned and how you grew |
 
 See individual Markdown files in the `/steps` directory for details.
 
@@ -57,20 +57,24 @@ Templates are provided in the `/templates/` directory.
 
 ```
 /steps/
-  Step 1 Select and Prep.md
-  Step 2 Study the Issue.md
-  Step 3 Apply the Fix.md
-  Step 4 Wrap it Up.md
-  Step 5 Reflect and Learn.md
+  step-1-select-and-prep.md
+  step-2-study-the-issue.md
+  step-3-apply-the-fix.md
+  step-4-wrap-it-up.md
+  step-5-reflect-and-learn.md
 
 templates/
-  RE Issue Pre-Fix Log Template.md
-  RE Issue Post-Fix Log Template.md
+  re-issue-pre-fix-log-template.md
+  re-issue-post-fix-log-template.md
 
 docs/
   README_Reverse_Engineering_Project.md
-  Mentor_Checklist.pdf (optional)
+  osire-mentor-checklist.md
+  //TODO Update files in doc
   Sample_Issue_Walkthrough/ (optional)
+
+assets/
+  osire-project-cover-image.png
 ```
 
 ---
@@ -97,8 +101,8 @@ docs/
 
 ## 🧠 Sample Issue Walkthrough (Optional)
 
-To view a complete example, see the `/Sample_Issue_Walkthrough` directory (if present). This includes:
-
+To view a complete example, see the `/Sample_Issue_Walkthrough` directory. This includes:
+// TODO Update sample issues
 - A real issue and PR from freeCodeCamp
 - A pre-fix log and post-fix log
 - The diff between the broken and fixed branches
@@ -124,18 +128,18 @@ For questions, mentoring requests, or adaptation help, please contact:
 
 This project is open for educational use, remixing, and adaptation. Please credit the original author if reused in another course, bootcamp, or repo.
 
-[RE Log for Step 1](RE%20Log%20for%20Step%201.md)
+[RE Log for Step 1](re-log-for-step-1.md)
 
-[RE Issue Pre-Fix Log Template](RE%20Issue%20Pre-Fix%20Log%20Template.md)
+[RE Issue Pre-Fix Log Template](re-issue-pre-fix-log-template.md)
 
-[RE Issue Post-Fix Log Template](RE%20Issue%20Post-Fix%20Log%20Template.md)
+[RE Issue Post-Fix Log Template](re-issue-post-fix-log-template.md)
 
-[Step 1: Select and Prep](Step%201%20Select%20and%20Prep.md)
+[Step 1: Select and Prep](step-1-select-and-prep.md)
 
-[Step 2: Study the Issue](Step%202%20Study%20the%20Issue.md)
+[Step 2: Study the Issue](step-2-study-the-issue.md)
 
-[Step 3: Apply the Fix](Step%203%20Apply%20the%20Fix.md)
+[Step 3: Apply the Fix](step-3-apply-the-fix.md)
 
-[Step 4: Wrap it Up](Step%204%20Wrap%20it%20Up.md)
+[Step 4: Wrap it Up](step-4-wrap-it-up.md)
 
-[Step 5: Reflect and Learn](Step%205%20Reflect%20and%20Learn.md)
+[Step 5: Reflect and Learn](step-5-reflect-and-learn.md)

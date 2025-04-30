@@ -66,7 +66,6 @@ Clone your own copy:
 > 💡 Tip: At this point, if you are using GitPod, you may get an error like:
 remote: Permission to <username>/freeCodeCamp.git denied to <username>.
 fatal: unable to access 'https://github.com/<username>/freeCodeCamp.git/': The requested URL returned error: 403
-
 [Push Failing in GitPod? Fix Authentication Errors](./docs/gitpod-authentication-help.md)
 > 
 

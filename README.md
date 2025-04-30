@@ -133,7 +133,7 @@ This project is open for educational use, remixing, and adaptation. Please credi
 ## 🚀 Future
 
 OSIRE for now, OSIRIS for the spin-off courseware! :D
-![OSIRE Project Cover](./assets/osire-project-cover-image.png)
+![OSIRE Project Cover](./assets/osiris-project-cover-image.png)
 
 ---
 

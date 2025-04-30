@@ -1,6 +1,4 @@
-# OSIRE Mentor Checklist
-
-# ✅ Mentor/Instructor Checklist
+## ✅ Mentor/Instructor Checklist
 
 ### for Open Source Issue Reverse Engineering (OSIRE) Project
 

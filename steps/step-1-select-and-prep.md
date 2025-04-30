@@ -1,6 +1,4 @@
-# Step 1: Select and Prep
-
-# 🛠 Step 1: Select and Prep a RE Target
+## 🛠 Step 1: Select and Prep a RE Target
 
 Here’s your mission breakdown:
 
@@ -80,6 +78,8 @@ Create a clear write-up or Canvas section that includes:
 - A brief summary of the issue
 - Your hypothesis or expectations
 - Any prep work done (cloning repo, setting up environment, etc.)
+
+[RE Log for Step 1 Template](re-log-for-step-1-template.md)
 
 **✅ Final Checklist:**
 

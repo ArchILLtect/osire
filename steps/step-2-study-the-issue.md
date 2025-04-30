@@ -1,6 +1,4 @@
-# Step 2: Study the Issue
-
-# 🛠 Step 2: Study the Issue
+## 🛠 Step 2: Study the Issue
 
 Here’s your mission breakdown:
 
@@ -79,7 +77,7 @@ git checkout pre-fix-[issue#]
 
 ### 📄 8. Complete the Pre-Fix Log
 
-[RE Issue Pre-Fix Log Template](RE%20Issue%20Pre-Fix%20Log%20Template%201e4a44a5f52b8066a6c0cf4f90a781bd.md)
+[RE Issue Pre-Fix Log Template](re-issue-pre-fix-log-template.md)
 
 ---
 

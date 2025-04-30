@@ -1,5 +1,3 @@
-# RE Log for Step 1
-
 # 🧠 Reverse Engineering Log for Step 1
 
 ## 🧩 Selected Issue & PR

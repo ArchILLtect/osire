@@ -1,6 +1,4 @@
-# Step 4: Wrap it Up
-
-# 🛠 Step 4: Submit Your Reverse-Engineered Fix
+## 🛠 Step 4: Submit Your Reverse-Engineered Fix
 
 Here’s your mission breakdown:
 
@@ -60,7 +58,7 @@ Update your RE Issue Post-Fix Log Template with:
 - Whether you solved it differently or identically
 - How you tested or verified your fix
 
-[RE Issue **Post-Fix Log Template**](RE%20Issue%20Post-Fix%20Log%20Template%201e4a44a5f52b80bc8b36d029a62b3a57.md)
+[RE Issue **Post-Fix Log Template**](re-issue-post-fix-log-template.md)
 
 ---
 

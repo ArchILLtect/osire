@@ -1,6 +1,4 @@
-# Step 3: Apply the Fix
-
-# 🛠 Step 3: Apply the Fix
+## 🛠 Step 3: Apply the Fix
 
 Here’s your mission breakdown:
 

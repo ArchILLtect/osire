@@ -63,14 +63,13 @@ Clone your own copy:
 - Create a tag for original "up-to-date" state (Ex. git tag uptodate-state)
 - Be sure to push tag for later use: git push origin uptodate-state
 
-<aside>
-
-💡 At this point, if you are using GitPod, you may get an error like:
-remote: Permission to <username>/freeCodeCamp.git denied to <username>.
-fatal: unable to access 'https://github.com/<username>/freeCodeCamp.git/': The requested URL returned error: 403
-[Use this guide to fix it](https://www.notion.so/docs/gitpod-authentication-help.md)
-
-</aside>
+> 💡 **GitPod Note**  
+> At this point, if you are using GitPod, you may get an error like:  
+> ```
+> remote: Permission to <username>/freeCodeCamp.git denied to <username>.
+> fatal: unable to access 'https://github.com/<username>/freeCodeCamp.git/': The requested URL returned error: 403
+> ```
+> 👉 [Use this guide to fix it](./docs/gitpod-authentication-help.md)
 
 - Checkout a commit **before** the PR was merged (use `git log` and `git checkout`)
 - Create a tag for this "broken" state "up-to-date" state (Ex git tag broken-version-54910)

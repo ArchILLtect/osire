@@ -24,8 +24,6 @@
 2. 🔎 Located all instances of `"an src"` across the relevant files using:
     
     ```bash
-    bash
-    CopyEdit
     grep -rnw './curriculum/challenges/english' -e 'an src'
     
     ```
@@ -36,11 +34,8 @@
 4. 💻 Saved and committed changes:
     
     ```bash
-    bash
-    CopyEdit
     git add .
     git commit -m "fix(curriculum): standardize article usage to 'a src'"
-    
     ```
     
 5. 🧪 Manually verified file renderings in Gitpod to ensure syntax, spacing, and logic were unaffected.
@@ -64,11 +59,8 @@
 Example change:
 
 ```diff
-diff
-CopyEdit
 - an `src` attribute
 + a `src` attribute
-
 ```
 
 This change was applied identically in all listed files.

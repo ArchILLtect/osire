@@ -45,7 +45,25 @@ Pick one of the changes and answer:
 - What is the new text?
 - Why is the new one correct?
 
-### 🌿 6. **Create a Fresh "Pre-Fix” Branch**
+### 🏷️ 6. **Tag the Broken State**
+
+Add a Git tag to mark this point in history before you apply any changes:
+
+```bash
+git tag broken-version-[issue#]
+git push origin broken-version-[issue#]
+```
+
+This allows you to easily return to this exact moment later by running:
+
+```bash
+git checkout broken-version-[issue#]
+```
+
+> 📌 Why this helps: Tagging creates a permanent snapshot of the broken state—perfect for future reference, comparisons, or documenting your workflow clearly in the final project.
+> 
+
+### 🌿 7. **Create a Fresh "Pre-Fix” Branch**
 
 To protect the original state of the code before you apply any changes, create a new branch from the latest version *before the fix was merged.*
 
@@ -56,23 +74,6 @@ git checkout -b reverse-fix-[issue#]
 This gives you a clean workspace for your reverse-engineered fix, and ensures you can always return to the "unfixed" version if needed.
 
 > 💡 Tip: Use a clear, descriptive branch name (e.g., fix-type-[issue#]) to keep your workflow tidy and easy to navigate.
-> 
-
-### 🏷️ 7. **Tag the Broken State**
-
-Add a Git tag to mark this point in history before you apply any changes:
-
-```bash
-git tag pre-fix-[issue#]
-```
-
-This allows you to easily return to this exact moment later by running:
-
-```bash
-git checkout pre-fix-[issue#]
-```
-
-> 📌 Why this helps: Tagging creates a permanent snapshot of the broken state—perfect for future reference, comparisons, or documenting your workflow clearly in the final project.
 > 
 
 ### 📄 8. Complete the Pre-Fix Log

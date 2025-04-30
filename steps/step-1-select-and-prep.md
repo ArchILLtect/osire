@@ -59,10 +59,19 @@ Before reading the PR or fix:
 Clone your own copy:
 
 - Fork and clone the repo locally
-- Checkout a commit **before** the PR was merged (use `git log` and `git checkout`)
+// TODO Clean this up with code blocks
+- Create a tag for original "up-to-date" state (Ex. git tag uptodate-state)
+- Be sure to push tag for later use: git push origin uptodate-state
+- 
+> 💡 Tip: At this point, if you are using GitPod, you may get an error like:
+remote: Permission to <username>/freeCodeCamp.git denied to <username>.
+fatal: unable to access 'https://github.com/<username>/freeCodeCamp.git/': The requested URL returned error: 403
 
-> “💡 Tip: You may want to tag this commit now for future comparison. You’ll revisit this in Step 2, but tagging early keeps things clean.”
+[Push Failing in GitPod? Fix Authentication Errors](./docs/gitpod-authentication-help.md)
 > 
+
+- Checkout a commit **before** the PR was merged (use `git log` and `git checkout`)
+- Create a tag for this "broken" state "up-to-date" state (Ex git tag broken-version-54910)
 
 ```bash
 git tag broken-version-[issue#]

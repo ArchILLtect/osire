@@ -110,6 +110,12 @@ To view a complete example, see the `/Sample_Issue_Walkthrough` directory. This 
 
 ---
 
+## 🛠 Troubleshooting
+
+- [Push Failing in GitPod? Fix Authentication Errors](./docs/gitpod-authentication-help.md)
+
+---
+
 ## 📬 Contact / Mentor Info
 
 This project was created as part of an Honors Program initiative.

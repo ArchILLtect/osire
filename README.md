@@ -128,6 +128,15 @@ For questions, mentoring requests, or adaptation help, please contact:
 
 This project is open for educational use, remixing, and adaptation. Please credit the original author if reused in another course, bootcamp, or repo.
 
+---
+
+## 🚀 Future
+
+OSIRE for now, OSIRIS for the spin-off courseware! :D
+![OSIRE Project Cover](./assets/osire-project-cover-image.png)
+
+---
+
 [RE Log for Step 1](/logs/re-log-for-step-1.md)
 
 [RE Issue Pre-Fix Log Template](/logs/re-issue-pre-fix-log-template.md)

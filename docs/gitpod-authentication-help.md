@@ -1,6 +1,12 @@
 # Re-authenticate GitHub Inside GitPod
 
-## ✅ First Try: Using GitHub CLI (`gh`)
+## First Step
+
+Use the following link to update permissions for Gitpod:
+
+https://forum.freecodecamp.org/t/how-to-use-gitpod-in-the-curriculum/668669#update-your-permissions-on-gitpod-20
+
+## ✅ Next Try: Using GitHub CLI (`gh`)
 
 In your GitPod terminal:
 
@@ -19,7 +25,7 @@ If you get the error: “bash: gh: command not found”, or something similar, g
 
 Once done, GitPod can **push to your repo without 403s**.
 
-## ✅ Second Try: Manual Authentication w/ Personal Access Token
+## ✅ Finally, Try: Manual Authentication w/ Personal Access Token
 
 Since `gh` isn't available, here’s a fallback method that works every time:
 
@@ -64,3 +70,4 @@ After that push works, you’re fully authenticated — no more 403 errors, and 
 
 > 💡 Tip: You only need to do this once per GitPod workspace. If it restarts, you may need to re-authenticate.
 >
+
